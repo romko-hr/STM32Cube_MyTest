@@ -1,0 +1,9 @@
+*.cproject
+.project
+settings/**
+*.o
+TrueSTUDIO/STM32VL-Discovery/.settings/**
+*.su
+TrueSTUDIO/STM32VL-Discovery/STM32VL-Discovery.elf.launch
+Debug/.list
+.settings/
